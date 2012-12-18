@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'template method' target in the 'template method' project
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+#endif
